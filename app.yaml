@@ -1,0 +1,7 @@
+application: mail-router
+version: 1
+runtime: java
+api_version: 1
+
+handlers:
+- url: /.*
